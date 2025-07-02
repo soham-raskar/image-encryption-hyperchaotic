@@ -76,7 +76,7 @@ This repository contains a complete implementation of a grayscale image encrypti
 - IoT visual data protection
 - Cloud-based image security
 - Lightweight image encryption systems
-- 
+  
 ---
 
 ## ✍️ Author
